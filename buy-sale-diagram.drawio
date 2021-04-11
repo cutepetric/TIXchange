@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T17:57:34.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ye7sDl6oCQAoB3N8BjIp" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T17:58:10.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="u4OTiYRGtmgAQ1HO14D1" version="14.5.10" type="github">
   <diagram id="GK6VNfCxgC5Nxsnt3nZw" name="Page-1">
     <mxGraphModel dx="1678" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         </mxCell>
         <mxCell id="VyAAz2rV2Hsoh8C36sVL-171" value="Customer" style="swimlane;html=1;startSize=20;" vertex="1" parent="VyAAz2rV2Hsoh8C36sVL-170">
           <mxGeometry y="20" width="150" height="671" as="geometry">
-            <mxRectangle y="20" width="30" height="730" as="alternateBounds" />
+            <mxRectangle y="20" width="30" height="671" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pq61V_5t6MFt0WhEcpon-76" value="Ballance: +FT$" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="VyAAz2rV2Hsoh8C36sVL-171" vertex="1">
@@ -157,7 +157,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VyAAz2rV2Hsoh8C36sVL-200" value="Wallet" style="swimlane;html=1;startSize=20;" vertex="1" parent="VyAAz2rV2Hsoh8C36sVL-170">
-          <mxGeometry x="310" y="20" width="140" height="671" as="geometry" />
+          <mxGeometry x="310" y="20" width="140" height="671" as="geometry">
+            <mxRectangle x="310" y="20" width="30" height="671" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jXT8pUPVsxswW2iT2aq3-16" value="Mint FT$" style="whiteSpace=wrap;html=1;verticalAlign=middle;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="VyAAz2rV2Hsoh8C36sVL-200" vertex="1">
           <mxGeometry x="31.5" y="250" width="87.5" height="30" as="geometry" />
@@ -166,7 +168,9 @@
           <mxGeometry x="26.25" y="535" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VyAAz2rV2Hsoh8C36sVL-204" value="Marketplace" style="swimlane;html=1;startSize=20;" vertex="1" parent="VyAAz2rV2Hsoh8C36sVL-170">
-          <mxGeometry x="450" y="20" width="160" height="671" as="geometry" />
+          <mxGeometry x="450" y="20" width="160" height="671" as="geometry">
+            <mxRectangle x="450" y="20" width="30" height="671" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K0B8hnfySt53gOpYEGHC-12" value="Embedded&lt;br&gt;Wallet" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;spacingBottom=7;" parent="VyAAz2rV2Hsoh8C36sVL-204" vertex="1">
           <mxGeometry x="20" y="250" width="120" height="80" as="geometry" />
